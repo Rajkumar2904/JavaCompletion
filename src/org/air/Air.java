@@ -3,7 +3,7 @@ package org.air;
 import org.water.Water;
 
 public class Air extends Water {
-    public void Airplanes() {
+    public void Airplane() {
 	    System.out.println("Airplane");
 }
     public void Helicopter() {
